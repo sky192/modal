@@ -18,5 +18,5 @@ closeModal.addEventListener("click", closeFunction);
 backDrop.addEventListener("click", closeFunction);
 confirmbtn.addEventListener("click", () => {
     closeFunction();
-    alert("thanks");
+    alert("Thanks");
 });
