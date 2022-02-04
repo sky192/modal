@@ -1,1 +1,1 @@
-# Modal written in vanilla javaScript
+# Modal written in vanilla javaScript.
